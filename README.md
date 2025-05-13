@@ -1,6 +1,7 @@
 ## ASP .NET Core STYLiSH Back End
 
 ```
+dotnet ef migrations add InitialCreate
 dotnet ef database update
 dotnet run
 ```

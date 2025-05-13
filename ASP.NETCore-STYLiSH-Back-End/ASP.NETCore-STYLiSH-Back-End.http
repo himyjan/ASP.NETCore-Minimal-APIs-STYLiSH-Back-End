@@ -25,5 +25,10 @@ Accept: application/json
 
 ###
 
+GET {{ASP.NETCore_STYLiSH_Back_End_HostAddress}}/api/1.0/products/search?keyword=襯衫&paging=0
+Accept: application/json
+
+###
+
 GET {{ASP.NETCore_STYLiSH_Back_End_HostAddress}}/api/1.0/products/details?id=201807201824
 Accept: application/json
